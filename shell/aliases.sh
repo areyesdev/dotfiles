@@ -6,7 +6,7 @@ alias ...="cd ../.."
 alias ls="lsd --group-dirs=first"
 alias ll="lsd -lh --group-dirs=first"
 alias la="lsd -a --group-dirs=first"
-alias cat='bat'
+alias cat='batcat'
 alias ~="cd ~"
 alias dotfiles="cd '$DOTFILES_PATH'"
 
